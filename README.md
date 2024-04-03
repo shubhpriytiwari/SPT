@@ -1,4 +1,4 @@
 # SPT
 This is my first Repository.
 <br>
-Author - Shubh Tiwari
+Author - Shubh (SPT)
